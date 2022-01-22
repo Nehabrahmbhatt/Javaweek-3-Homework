@@ -5,7 +5,7 @@ public class DoWhileLoopTable {
 
     int a=1;
     do {
-        System.out.println(8+" x "+a+" = "+8*a);
+        System.out.println(5+" x "+a+" = "+5*a);
         a++;
     }while(a<=10);
     }
